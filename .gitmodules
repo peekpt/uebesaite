@@ -1,3 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hossainemruz/toha.git
+[submodule "themes/midnight"]
+	path = themes/midnight
+	url = https://gitlab.com/BluestNight/Midnight
+[submodule "themes/hugo-future-imperfect"]
+	path = themes/hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect
